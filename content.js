@@ -1,7 +1,7 @@
-if (!window.__shiftRightClickInstalled) {
-  window.__shiftRightClickInstalled = true;
+if (!window.__ctrlRightClickInstalled) {
+  window.__ctrlRightClickInstalled = true;
   document.addEventListener("contextmenu", (e) => {
-    if (!e.shiftKey) {
+    if (!e.ctrlKey) {
       e.preventDefault();
     }
   }, true);

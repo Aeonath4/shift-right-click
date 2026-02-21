@@ -1,7 +1,7 @@
-# Shift Right-Click
+# Ctrl Right-Click
 
-Shift Right Click prevents accidental context menu activation by disabling right-click by default.
-To open the browser's context menu, simply hold the **Shift** key while right-clicking.
+Ctrl Right Click prevents accidental context menu activation by disabling right-click by default.
+To open the browser's context menu, simply hold the **Ctrl** key while right-clicking.
 
 This extension is designed for users who frequently trigger right-click unintentionally and want a simple, predictable way to reduce interruptions while browsing.
 
@@ -11,7 +11,7 @@ This extension is designed for users who frequently trigger right-click unintent
 - Lightweight and unobtrusive
 - No tracking, analytics, or data collection
 
-Shift Right Click focuses on improving control and reducing friction — nothing more, nothing less.
+Ctrl Right Click focuses on improving control and reducing friction — nothing more, nothing less.
 
 ## Accessibility & Compatibility Note
 
@@ -42,11 +42,11 @@ The following pages are unaffected by this extension due to hard restrictions en
 ## Usage
 
 - **Right-click** — blocked on all pages
-- **Shift + Right-click** — opens the context menu as normal
+- **Ctrl + Right-click** — opens the context menu as normal
 
 ## Uninstalling
 
-Go to `chrome://extensions`, find **Shift Right-Click**, and click **Remove**.
+Go to `chrome://extensions`, find **Ctrl Right-Click**, and click **Remove**.
 
 ## License
 
@@ -54,4 +54,4 @@ MIT — see the [LICENSE](LICENSE) file for details.
 
 ## Version
 
-1.1
+1.2
