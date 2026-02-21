@@ -24,3 +24,11 @@ A Chrome extension that disables right-click unless **Shift** is also held down.
 ## Uninstalling
 
 Go to `chrome://extensions`, find **Shift Right-Click**, and click **Remove**.
+
+## License
+
+MIT — see the [LICENSE](LICENSE) file for details.
+
+## Version
+
+1.1
