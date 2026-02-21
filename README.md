@@ -1,6 +1,29 @@
 # Shift Right-Click
 
-A Chrome extension that disables right-click unless **Shift** is also held down.
+Shift Right Click prevents accidental context menu activation by disabling right-click by default.
+To open the browser's context menu, simply hold the **Shift** key while right-clicking.
+
+This extension is designed for users who frequently trigger right-click unintentionally and want a simple, predictable way to reduce interruptions while browsing.
+
+## Features
+
+- Disables right-click unless a modifier key is pressed
+- Lightweight and unobtrusive
+- No tracking, analytics, or data collection
+
+Shift Right Click focuses on improving control and reducing friction — nothing more, nothing less.
+
+## Accessibility & Compatibility Note
+
+Some web applications rely on custom context menus for core functionality (for example, Google Docs, Google Sheets, and similar web apps).
+For the best experience in those applications, temporarily disable this extension while using them.
+
+**Known browser-level limitations:**
+
+The following pages are unaffected by this extension due to hard restrictions enforced by Chrome itself — these cannot be worked around:
+
+- **New Tab page (`chrome://newtab`)** — Chrome does not permit extensions to run on `chrome://` pages. This is a browser security restriction that applies to all extensions.
+- **Chrome Web Store (`chrome.google.com`)** — Chrome intentionally blocks all extensions from injecting into the Web Store to prevent interference or abuse.
 
 ## Installation
 
