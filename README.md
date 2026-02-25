@@ -54,4 +54,4 @@ MIT — see the [LICENSE](LICENSE) file for details.
 
 ## Version
 
-1.2
+1.3
